@@ -18,6 +18,10 @@ I love working on projects that challenge me to think creatively and collaborate
 - **Career Development:** Aiming to leverage my extensive experience in software development to contribute to innovative and impactful projects.
 - **Continuous Learning:** Dedicated to staying at the forefront of technology trends and enhancing my skills through ongoing education and practical application.
 
+## Some projects
+- [Cyrilic](https://camilotk.github.io/cirilico/): A project I did in the first class of Russian language in 2020 for help any portuguese speaker to learn Russian
+alphabet sounds and letters.
+
 ## Connect with Me 📬
 - 📧 [Email](mailto:camilotk@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/2cazevedo/)
