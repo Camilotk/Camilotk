@@ -19,6 +19,8 @@ I love working on projects that challenge me to think creatively and collaborate
 - **Continuous Learning:** Dedicated to staying at the forefront of technology trends and enhancing my skills through ongoing education and practical application.
 
 ## Some projects
+- [Learn4Elixir](https://github.com/Universidade-Livre/Learn4Elixir): Tutorial of functional programming and Elixir written in partnership with [adolfont](https://github.com/adolfont) for the
+hacktoberfest 2023. The lessons are built in Livebooks (Notebooks), the project was inspired in [Learn4Haskell](https://github.com/kowainik/learn4haskell) from [kowainik](https://github.com/kowainik).
 - [Cyrilic](https://camilotk.github.io/cirilico/): A project I did in the first class of Russian language in 2020 for help any portuguese speaker to learn Russian
 alphabet sounds and letters.
 
