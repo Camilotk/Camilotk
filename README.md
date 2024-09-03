@@ -23,6 +23,8 @@ I love working on projects that challenge me to think creatively and collaborate
 hacktoberfest 2023. The lessons are built in Livebooks (Notebooks), the project was inspired in [Learn4Haskell](https://github.com/kowainik/learn4haskell) from [kowainik](https://github.com/kowainik).
 - [Cyrilic](https://camilotk.github.io/cirilico/): A project I did in the first class of Russian language in 2020 for help any portuguese speaker to learn Russian
 alphabet sounds and letters.
+- [ifrs-livros-didaticos](https://github.com/fabsoftwareifrs/ifrs-livros-didaticos): AGPL v3 Free Software Library Management System that I built in 2020 as student for the College as tutorship with collegemates and teachers
+while I was student. Built with TypeScript, React, MongoDB and GraphQL.
 
 ## Connect with Me 📬
 - 📧 [Email](mailto:camilotk@gmail.com)
