@@ -29,6 +29,6 @@ while I was student. Built with TypeScript, React, MongoDB and GraphQL.
 ## Connect with Me 📬
 - 📧 [Email](mailto:camilotk@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/2cazevedo/)
-- I used to have a 🐦 [X / Twitter](https://x.com/ocamilodev), but now I'm using only 🦋 [BlueSky](https://bsky.app/profile/camilotk.dev.br) since [X got banned in my country](https://www.theguardian.com/technology/article/2024/aug/31/x-offline-brazil-elon-musk).
+- I used to have a 🐦 [X / Twitter](https://x.com/ocamilodev), but now I'm using only 🦋 [Bluesky](https://bsky.app/profile/camilotk.dev.br) since [X got banned in my country](https://www.theguardian.com/technology/article/2024/aug/31/x-offline-brazil-elon-musk).
 
 Excited to connect and collaborate on projects that fuse technology with creativity and social impact. Let’s innovate together! 🌍
