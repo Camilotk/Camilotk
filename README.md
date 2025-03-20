@@ -5,7 +5,7 @@ I love working on projects that challenge me to think creatively and collaborate
 
 ## Technical Skills 🛠️
 - **Languages:** JavaScript, TypeScript, Python, Java, Kotlin, Clojure, PHP, OCaml
-- **Frameworks & Libraries:** React, Node.js, ClojureScript, Re-frame, React Native
+- **Frameworks & Libraries:** React, Node.js, ClojureScript, Re-frame, React Native, Reason, MLX
 - **Tools & Platforms:** Docker, Kubernetes, AWS, GitHub
 - **Databases:** MySQL, PostgreSQL, MongoDB, Redis
 - **Reverse Engineering:** Frida, JADX, CyberChef, Ghidra
